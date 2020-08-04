@@ -19,11 +19,12 @@ mccabe==0.6.1
 netifaces==0.10.4
 numpy==1.18.1
 opencv-python==4.2.0.32
+distro-info
 pyaes==1.6.1
 pyasn1==0.4.8
 pycrypto==2.6.1
 pycurl==7.43.0.1
-pygobject==3.26.1
+pygobject
 pylint==2.4.4
 pyOpenSSL==17.5.0
 python-apt==1.6.5+ubuntu0.2
