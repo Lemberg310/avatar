@@ -6,7 +6,7 @@ from utils import time_has_changed, generate_time_image_bytes
 from datetime import datetime, timedelta
 import argparse
 import pytz
-
+import os
 
 def valid_tz(s):
     try:
