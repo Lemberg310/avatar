@@ -27,8 +27,6 @@ pycurl==7.43.0.1
 pygobject
 pylint==2.4.4
 pyOpenSSL==17.5.0
-python-apt
-python-debian==0.1.32
 pyxdg==0.25
 PyYAML==3.12
 requests==2.18.4
